@@ -24691,7 +24691,6 @@ asperifolious
 asperite
 asperities
 asperity
-asperly
 aspermatic
 aspermatism
 aspermatous
@@ -61329,6 +61328,8 @@ ceduous
 cee
 ceennacuelum
 cees
+cefalexin
+cefazolin
 ceiba
 ceibas
 ceibo
@@ -114447,7 +114448,6 @@ drachmai
 drachmal
 drachmas
 drachms
-dracin
 drack
 dracma
 draco
@@ -206796,6 +206796,7 @@ kontakion
 konyak
 koodoo
 koodoos
+kooikerhondje
 kook
 kooka
 kookaburra
@@ -461903,6 +461904,7 @@ yogourt
 yogourts
 yogurt
 yogurts
+yogyakarta
 yohimbe
 yohimbenine
 yohimbes
