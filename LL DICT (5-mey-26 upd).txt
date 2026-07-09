@@ -20897,6 +20897,7 @@ apyrotype
 apyrous
 aq
 aqsaqal
+aqsaqals
 aqua
 aquabatic
 aquabatics
@@ -24509,18 +24510,11 @@ ashy
 asia
 asiago
 asiagos
-asialia
 asian
 asianic
-asianism
 asians
 asiarch
-asiarchate
 asiatic
-asiatican
-asiaticism
-asiaticize
-asiatize
 aside
 asidehand
 asiden
@@ -208692,7 +208686,9 @@ lahnda
 lahontan
 lahore
 lahs
+lahu
 lahuli
+lahus
 lai
 laibach
 laic
@@ -250158,6 +250154,7 @@ ngatis
 ngoko
 ngoma
 ngomas
+ngondo
 ngram
 ngrams
 ngultrum
@@ -321744,6 +321741,8 @@ qajaq
 qajaqs
 qalamdan
 qalamdans
+qama
+qamas
 qameez
 qameezes
 qamutik
