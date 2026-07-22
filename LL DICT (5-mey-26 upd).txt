@@ -9,6 +9,8 @@ a-poses
 a-spot
 a-spots
 aa
+aaargh
+aah
 aahing
 aahs
 aalii
@@ -20,6 +22,7 @@ aardvarks
 aardwolf
 aardwolves
 aargh
+aarhus
 aaron
 aaronic
 aaronite
@@ -403,6 +406,8 @@ abhorring
 abhorrings
 abhors
 abhorson
+abhurite
+abhurites
 abib
 abid
 abidal
@@ -911,6 +916,11 @@ abrooked
 abrookes
 abrooking
 abrosaurus
+abrosexual
+abrosexualism
+abrosexualisms
+abrosexualities
+abrosexuality
 abrosia
 abrosias
 abrotanum
@@ -1229,6 +1239,9 @@ abucco
 abugida
 abugidas
 abuilding
+abuja
+abukumalite
+abukumalites
 abulia
 abulias
 abulic
@@ -1396,6 +1409,7 @@ acantha
 acanthaceous
 acanthad
 acanthae
+acanthamoeba
 acantharia
 acanthas
 acanthi
@@ -1455,6 +1469,7 @@ acapsular
 acapu
 acapulco
 acara
+acaraje
 acarapis
 acarbose
 acarboses
@@ -1563,6 +1578,8 @@ accelerates
 accelerating
 acceleratingly
 acceleration
+accelerationism
+accelerationisms
 accelerations
 accelerative
 accelerator
@@ -1756,6 +1773,7 @@ acclimation
 acclimations
 acclimatisable
 acclimatisation
+acclimatisations
 acclimatise
 acclimatised
 acclimatiser
@@ -2091,6 +2109,7 @@ accustrement
 accustrements
 ace
 aceanthrylene
+aceanthrylenes
 aced
 acedia
 acedias
@@ -2390,6 +2409,8 @@ achernar
 acheron
 acheronian
 acherontic
+acheroraptor
+acheroraptors
 aches
 acheulean
 acheweed
@@ -6040,7 +6061,6 @@ affusedaffusing
 affusion
 affusions
 affy
-affydavy
 affyde
 affying
 afghan
@@ -139635,8 +139655,8 @@ fezzes
 fezziwig
 fezzy
 ffa
+fg
 fgn
-fgrid
 fhrer
 fi
 fiacre
@@ -149519,9 +149539,8 @@ frying
 fryings
 frypan
 frypans
-fsiest
+fs
 fsr
-fstore
 fth
 fthm
 ftncmd
@@ -174574,12 +174593,12 @@ hizzie
 hizzing
 hizzoner
 hizzoners
+hlai
 hlais
 hlidhskjalf
 hlithskjalf
 hlonipha
 hlorrithi
-hlqn
 hlubi
 hm
 hmm
@@ -226784,7 +226803,7 @@ mbalolo
 mbaqanga
 mbaqangas
 mbaya
-mbeuer
+mbe
 mbira
 mbiras
 mbori
@@ -251335,7 +251354,9 @@ nkrumahisms
 nkrumahist
 nkrumahists
 nkwobi
-nnethermore
+nne
+nnetlingly
+nnets
 no
 noa
 noachian
@@ -261190,7 +261211,9 @@ nsfw
 nsima
 nsutite
 nsutites
+nt
 nth
+nty
 nu
 nuadu
 nuagism
@@ -339800,6 +339823,11 @@ rfb
 rfound
 rfree
 rgen
+rgisseur
+rglement
+rgvedic
+rgyalrong
+rgyalrongic
 rha
 rhabarb
 rhabarbarate
